@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Piotr Lyszkowski
-- 👀 I’m interested in java programing
-- 🌱 I’m currently learning Java & Spring
+- 👀 I’m Java developer
+- 🌱 I learn every day
 
 
 
